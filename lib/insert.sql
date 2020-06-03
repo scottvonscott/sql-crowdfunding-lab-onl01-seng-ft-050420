@@ -1,14 +1,15 @@
 
-INSERT INTO projects VALUES ("The Big One", "Technology", 10000.00, "3/10/20", "12/10/20");
-INSERT INTO projects VALUES ("The Big One", "Technology", 10000.00, "3/10/20", "12/10/20");
-INSERT INTO projects VALUES ("The Big One", "Technology", 10000.00, "3/10/20", "12/10/20");
-INSERT INTO projects VALUES ("The Big One", "Technology", 10000.00, "3/10/20", "12/10/20");
-INSERT INTO projects VALUES ("The Big One", "Technology", 10000.00, "3/10/20", "12/10/20");
-INSERT INTO projects VALUES ("The Big One", "Technology", 10000.00, "3/10/20", "12/10/20");
-INSERT INTO projects VALUES ("The Big One", "Technology", 10000.00, "3/10/20", "12/10/20");
-INSERT INTO projects VALUES ("The Big One", "Technology", 10000.00, "3/10/20", "12/10/20");
-INSERT INTO projects VALUES ("The Big One", "Technology", 10000.00, "3/10/20", "12/10/20");
-INSERT INTO projects VALUES ("The Big One", "Technology", 10000.00, "3/10/20", "12/10/20");
+INSERT INTO projects VALUES (1, "The Big One", "Technology", 10000.00, "3/10/20", "12/10/20");
+INSERT INTO projects VALUES (2, "The Big One", "Technology", 10000.00, "3/10/20", "12/10/20");
+INSERT INTO projects VALUES (3, "The Big One", "Technology", 10000.00, "3/10/20", "12/10/20");
+INSERT INTO projects VALUES (4, "The Big One", "Technology", 10000.00, "3/10/20", "12/10/20");
+INSERT INTO projects VALUES (5, "The Big One", "Technology", 10000.00, "3/10/20", "12/10/20");
+INSERT INTO projects VALUES (6, "The Big One", "Technology", 10000.00, "3/10/20", "12/10/20");
+INSERT INTO projects VALUES (7, "The Big One", "Technology", 10000.00, "3/10/20", "12/10/20");
+INSERT INTO projects VALUES (8, "The Big One", "Technology", 10000.00, "3/10/20", "12/10/20");
+INSERT INTO projects VALUES (9, "The Big One", "Technology", 10000.00, "3/10/20", "12/10/20");
+INSERT INTO projects VALUES (10, "The Big One", "Technology", 10000.00, "3/10/20", "12/10/20");
+
 
 INSERT INTO users (id, name, age) VALUES (1, "Scott", 32);
 
