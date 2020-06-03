@@ -1,5 +1,5 @@
 
-INSERT INTO projects (id, title, category,  VALUES (1, "The Big One", "Technology", 10000.00, "3/10/20", "12/10/20");
+INSERT INTO projects (id, title, category, funding_goal, start_date, end_date) VALUES (1, "The Big One", "Technology", 10000.00, "3/10/20", "12/10/20");
 INSERT INTO projects VALUES (2, "The Big One", "Technology", 10000.00, "3/10/20", "12/10/20");
 INSERT INTO projects VALUES (3, "The Big One", "Technology", 10000.00, "3/10/20", "12/10/20");
 INSERT INTO projects VALUES (4, "The Big One", "Technology", 10000.00, "3/10/20", "12/10/20");
